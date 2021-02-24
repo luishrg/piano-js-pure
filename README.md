@@ -1,1 +1,1 @@
-# piano-js-pure
+# Projeto de Piano Digital
